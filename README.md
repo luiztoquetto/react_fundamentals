@@ -1,2 +1,2 @@
 # Fundamentals React #1  
-My first steps with React. 
+My first steps in React. 
